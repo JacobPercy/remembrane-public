@@ -175,11 +175,10 @@ graph TD
 
 ### App Images
 
-<div style="display: flex; gap: 10px;">
-    <img src="imgs/aolh1.png" alt="App Screenshot 1">
-    <img src="imgs/aolh2.png" alt="App Screenshot 2">
-    <img src="imgs/aolh3.png" alt="App Screenshot 3">
-    <img src="imgs/aolh4.png" alt="App Screenshot 4">
-    <img src="imgs/aolh5.png" alt="App Screenshot 5">
-</div>
+| Image 1 | Image 2 | Image 3 |
+|--------|--------|--------|
+| ![aolh1](imgs/aolh1.png) | ![aolh2](imgs/aolh2.png) | ![aolh3](imgs/aolh3.png) |
 
+| Image 4 | Image 5 |
+|--------|--------|
+| ![aolh4](imgs/aolh4.png) | ![aolh5](imgs/aolh5.png) |
